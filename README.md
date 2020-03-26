@@ -19,3 +19,5 @@
 ## licence
 * free use for non commercial projects
 * credit me if you like.
+
+nvStereoApiI.dll is gone ?
